@@ -26,7 +26,7 @@ utopianTree has the following parameter(s):
 
     n: an integer, the number of growth cycles to simulate
 
-Input Format
+### Input Format
 
 The first line contains an integer,
 , the number of test cases.
