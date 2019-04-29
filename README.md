@@ -18,7 +18,7 @@ Period  Height
 4          7
 5          14
 
-#### Function Description
+### Function Description
 
 Complete the utopianTree function in the editor below. It should return the integer height of the tree after the input number of growth cycles.
 
@@ -37,7 +37,7 @@ subsequent lines each contain an integer,
 ### Constraints
 
 
-Output Format
+### Output Format
 
 For each test case, print the height of the Utopian Tree after
 
