@@ -34,7 +34,7 @@ subsequent lines each contain an integer,
 
 , denoting the number of cycles for that test case.
 
-Constraints
+### Constraints
 
 
 Output Format
