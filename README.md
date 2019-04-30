@@ -32,13 +32,12 @@ The first line contains an integer, **t**, the number of test cases.
 ### Constraints
 
 **1 <= t <= 10**
+
 **0 <= n <= 60**
 
 ### Output Format
 
-For each test case, print the height of the Utopian Tree after
-
-cycles. Each height must be printed on a new line.
+For each test case, print the height of the Utopian Tree after **n** cycles. Each height must be printed on a new line.
 
 Sample Input
 
