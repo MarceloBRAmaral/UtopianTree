@@ -39,32 +39,30 @@ The first line contains an integer, **t**, the number of test cases.
 
 For each test case, print the height of the Utopian Tree after **n** cycles. Each height must be printed on a new line.
 
-Sample Input
+### Sample Input
 
 3
+
 0
+
 1
+
 4
 
-Sample Output
+### Sample Output
 
 1
+
 2
+
 7
 
-Explanation
+### Explanation
 
 There are 3 test cases.
 
-In the first case (
-), the initial height (
+In the first case **(n = 0)**, the initial height **(H = 1)** of the tree remains unchanged.
 
-) of the tree remains unchanged.
+In the second case **(n = 1)**, the tree doubles in height and is **2** meters tall after the spring cycle.
 
-In the second case (
-), the tree doubles in height and is
-
-meters tall after the spring cycle.
-
-In the third case (
-), the tree doubles its height in spring (, ), then grows a meter in summer (, ), then doubles after the next spring (, ), and grows another meter after summer (, ). Thus, at the end of 4 cycles, its height is meters.
+In the third case **(n = 4)**, the tree doubles its height in spring **(n = 1, H = 2)**, then grows a meter in summer **(n = 2, H = 3)**, then doubles after the next spring **(n = 3, H = 6)**, and grows another meter after summer **(n = 4, H = 7)**. Thus, at the end of 4 cycles, its height is **7** meters.
