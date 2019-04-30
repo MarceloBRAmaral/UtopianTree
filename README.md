@@ -31,6 +31,8 @@ The first line contains an integer, **t**, the number of test cases.
 
 ### Constraints
 
+**1 <= t <= 10**
+**0 <= n <= 60**
 
 ### Output Format
 
