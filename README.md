@@ -25,11 +25,9 @@ utopianTree has the following parameter(s):
 
 ### Input Format
 
-The first line contains an integer,
-, the number of test cases.
-subsequent lines each contain an integer,
+The first line contains an integer, **t**, the number of test cases.
 
-, denoting the number of cycles for that test case.
+**t** subsequent lines each contain an integer, **n**, denoting the number of cycles for that test case.
 
 ### Constraints
 
